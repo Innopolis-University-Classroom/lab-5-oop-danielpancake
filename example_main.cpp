@@ -6,9 +6,9 @@
 //
 
 #include "landlord.h"
+#include "landlord.cpp"
 
 int main() {
-    //    std::cout << "Hello, World!" << std::endl;
     userInterface theUserInterface;
     theUserInterface.interact();
     return 0;

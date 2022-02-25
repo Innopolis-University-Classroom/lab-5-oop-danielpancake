@@ -1,5 +1,7 @@
-Hello Readme
-Using OOP principles, create a program that will allow a landlord to manage an apartment building with 12 units. Two broad features include reading od data and reports for finance. The program should allow the following features;
+d.satarov@innopolis.university
+Daniel Satarov
+
+Using OOP principles, create a program that will allow a landlord to manage an apartment building with 12 units. Two broad features include reading od data and reports for finance. The program should allow the following features:
 
 - The tenant list - list of apartment units and corresponding tenant names.
 - The Rental Income Record - 12 columns, one for each month; and one row for each apartment number. Each time the landlord receives a rent payment from a tenant, a record is updated to the appropriate row and column of the Rental Income (See Table 1).
